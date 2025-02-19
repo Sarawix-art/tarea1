@@ -1,0 +1,81 @@
+body {
+    background-color: white;
+    margin: 0;
+    overflow: auto;
+}
+
+.caja1 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: indigo;
+    width: 1200px;
+    height: 500px;
+    padding: 15px;
+}
+.caja2 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: blue;
+    width: 1100px;
+    height: 400px;
+    padding: 15px;
+}
+.caja3 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: teal;
+    width: 1000px;
+    height: 300px;
+    padding: 15px;
+}
+.caja4 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aqua;
+    width: 900px;
+    height: 200px;
+    padding: 15px;
+}
+.caja5 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: aquamarine;
+    width: 800px;
+    height: 150px;
+    padding: 15px;
+}
+.caja6 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: lightblue;
+    width: 700px;
+    height: 100px;
+    padding: 15px;
+}
+.caja7 {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: lightgreen;
+    width: 600px;
+    height: 50px;
+    padding: 15px;
+}
+.name{
+    text-align: center;
+    font-family: "Courier New", Courier, monospace;
+    font-weight: 600;
+}
